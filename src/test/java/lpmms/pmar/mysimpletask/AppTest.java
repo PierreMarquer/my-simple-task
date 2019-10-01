@@ -1,4 +1,4 @@
-package lpmms.pmar;
+package lpmms.pmar.mysimpletask;
 
 import static org.junit.Assert.assertTrue;
 
